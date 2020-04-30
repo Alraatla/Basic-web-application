@@ -30,7 +30,7 @@
         "handlebars-helpers": "^0.10.0",
         "helmet": "^3.21.2",
         "http-errors": "^1.7.3",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "jsdom": "^15.2.1",
         "mongoose": "^5.7.12",
         "morgan": "^1.9.1",
